@@ -1,0 +1,4 @@
+name: SurvivalZombieHorses
+version: '${project.version}'
+main: me.kermx.survivalzombiehorses.SurvivalZombieHorses
+api-version: '1.20'
